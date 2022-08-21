@@ -1,0 +1,29 @@
+[user]
+	name = Pranav Vachaspati
+	email = pranav932@yahoo.com
+
+[alias]
+  au  = add -u
+  b   = branch
+  d   = describe --tags
+  f   = fetch
+  p   = pull
+  st  = status
+  cm  = commit -m
+  co  = checkout
+  nb  = checkout -b
+  po  = push origin
+  pro = pull --rebase origin
+  su  = submodule update
+  sui = submodule update --init
+  can = commit --amend --no-edit
+  cm  = commit -m
+
+[color]
+  ui = true
+
+[color "status"]
+  added = green bold
+  changed = yellow bold
+  untracked = red bold
+
