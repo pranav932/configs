@@ -1,6 +1,6 @@
 [user]
 	name = Pranav Vachaspati
-	email = pranav932@yahoo.com
+	email = pranav@vachaspati.dev
 
 [alias]
   au  = add -u
